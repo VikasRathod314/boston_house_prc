@@ -13,4 +13,6 @@ Software And Tools Requirements
 
 5. Create a new environment
     conda create -p venv python==3.7 -y
+6. https://www.atlassian.com/git/tutorials/saving-changes/git-commit#:~:text=git%20commit%20%2Da,with%20a%20passed%20commit%20message.
 
+7. Flask, sklearn, numpy, pandas, seaborn, matplotlib 
